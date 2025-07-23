@@ -1,6 +1,7 @@
 <h2>Color Clash</h2> 
 <h4><i>A Competitive 2-Player Color Switch</i></h4>
-<video src="Assets/Videos/bup.gif" autoplay loop></video>
+![Gameplay GIF](bup.gif)
+
 
 
 <h2>About the game</h2>
