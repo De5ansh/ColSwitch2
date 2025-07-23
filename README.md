@@ -1,7 +1,8 @@
 <h2>Color Clash</h2> 
 <h4><i>A Competitive 2-Player Color Switch</i></h4>
 
-<img width="741" height="391" alt="image" src="https://github.com/user-attachments/assets/dccf6c7b-8841-43f1-85a5-134cca4cf127" />
+<img width="534" height="328" alt="image" src="https://github.com/user-attachments/assets/3ff59c64-5edd-49b5-8a01-040bd1823b3f" />
+
 
 
 <h2>About the game</h2>
