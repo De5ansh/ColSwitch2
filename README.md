@@ -1,6 +1,6 @@
 <h2>Color Clash</h2> 
 <h4><i>A Competitive 2-Player Color Switch</i></h4>
-![Gameplay GIF](./bup.gif)
+![Gameplay GIF]("./bup.gif")
 
 
 
