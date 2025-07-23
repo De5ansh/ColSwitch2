@@ -1,8 +1,9 @@
 <h2>Color Clash</h2> 
 <h4><i>A Competitive 2-Player Color Switch</i></h4>
+![bup](https://github.com/user-attachments/assets/0f7a67a8-ca06-4cb2-8df2-3908fac08b09)
 
 <h2>About the game</h2>
-Color Clash is a fun, competitive spin on the classic Color Switch game — designed for two players to test their reflexes and precision. Each player controls their own colored ball, navigating through spinning obstacles by matching colors. The twist? It’s a race — the first to make a mistake loses!
+Color Clash is a fun, competitive spin on the classic Color Switch game — designed for two players to test their reflexes and precision. Each player controls their own colored ball, navigating through spinning obstacles by matching colors. The twist? It’s a race — the firstone to the finish line wins!
 
 The game combines the simple, satisfying mechanics of Color Switch with local multiplayer dynamics, encouraging fast reactions and head-to-head competition. This project showcases input handling for two players, obstacle generation, color-matching logic, scoring, and a clean, colorful UI — all built in Unity.
 
