@@ -1,6 +1,6 @@
 <h2>Color Clash</h2> 
 <h4><i>A Competitive 2-Player Color Switch</i></h4>
-![bup](https://github.com/user-attachments/assets/0f7a67a8-ca06-4cb2-8df2-3908fac08b09)
+![Gameplay GIF](Assets/Videos/bup.gif)
 
 <h2>About the game</h2>
 Color Clash is a fun, competitive spin on the classic Color Switch game — designed for two players to test their reflexes and precision. Each player controls their own colored ball, navigating through spinning obstacles by matching colors. The twist? It’s a race — the firstone to the finish line wins!
