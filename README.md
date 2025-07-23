@@ -2,7 +2,7 @@
 <h4><i>A Competitive 2-Player Color Switch</i></h4>
 
 
-<video src="myvideo.mp4" controls autoplay loop muted width="600"></video>
+<video src="xyz.mp4" controls autoplay loop muted width="600"></video>
 
 <h2>About the game</h2>
 Color Clash is a fun, competitive spin on the classic Color Switch game — designed for two players to test their reflexes and precision. Each player controls their own colored ball, navigating through spinning obstacles by matching colors. The twist? It’s a race — the firstone to the finish line wins!
